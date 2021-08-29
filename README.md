@@ -5,3 +5,4 @@
 - https://prim4t.github.io/link/theaverageartist
 - https://prim4t.github.io/link/thegeekartist
 - https://prim4t.github.io/link/jordanpersegati
+- https://prim4t.github.io/linolafettatnet/
