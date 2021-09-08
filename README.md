@@ -7,10 +7,10 @@
 - [thegeekartist](https://prim4t.github.io/link/thegeekartist)
 - [jordanpersegati](https://prim4t.github.io/link/jordanpersegati)
 - [linolafettatnet](https://prim4t.github.io/linolafettatnet/)
-- [benjaminmagnusgames](https://prim4t.github.io/link/benjaminmagnusgames/)
-- [deburke321](https://prim4t.github.io/link/deburke321/)
-- [oceanebusiness](https://prim4t.github.io/link/oceanebusiness/)
-- [zalzar](https://prim4t.github.io/link/zalzar/)
+- [benjaminmagnusgames](https://prim4t.github.io/link/benjaminmagnusgames)
+- [deburke321](https://prim4t.github.io/link/deburke321)
+- [oceanebusiness](https://prim4t.github.io/link/oceanebusiness)
+- [zalzar](https://prim4t.github.io/link/zalzar)
 
 ## Sushi restaurants:
 - [dragon](https://prim4t.github.io/link/dragon)
