@@ -1,0 +1,487 @@
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <base target="_blank">
+  <meta name="description" content="A Open Source eSport Tournament" />
+  <title>🟡 OpenSource.GG 🟡</title> 
+  <meta property="og:image" content="NETWORK.png"/>
+  <meta property="og:title" content="🟡 OpenSource.GG 🟡"/>
+  <meta property="og:site_name" content="OpenSource.GG"/>
+  <meta property="og:description" content="A Open Source eSport Tournament where everyone can play, contribute and support players and developers" />
+  <meta name="viewport" content="width=device-width">
+
+  <script src="https://www.blockonomics.co/js/pay_button.js"></script>
+  
+  <style type="text/css">
+    
+ :root {
+
+  --cover-image: url("https://cdn-icons-png.flaticon.com/512/1970/1970893.png");
+  --image1: url("https://modernniagara.com/wp-content/uploads/2013/08/icon-teamwork-1024x1008.png");
+  --image2: url("https://em-content.zobj.net/thumbs/120/twitter/322/plus_2795.png");
+  --image3: url("https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Logo_de_SuperTuxKart.png/120px-Logo_de_SuperTuxKart.png");
+  --image4: url("https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/0_A.D._logo.svg/120px-0_A.D._logo.svg.png");
+  --image5: url("https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Battle_for_Wesnoth_logo.png/120px-Battle_for_Wesnoth_logo.png");
+  --image6: url("https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Armagetron_Advanced.png/120px-Armagetron_Advanced.png");
+  --image7: url("https://www.openra.net/images/news/20161223-new-logo.png");
+
+
+  --bg: #1d1d2c;
+  --color1: #829FE4;
+  --color2: #fcd63d; 
+  --color3: #1A5468; 
+  --color4: #00073A;
+  --font1: 'Fredoka One', sans-serif;
+  --font2: 'Courier New', monospace;
+}
+
+.cover-image {
+  content: var(--cover-image);
+}
+.image1 {
+  content: var(--image1);
+}
+.image2 {
+  content: var(--image2);
+}
+.image3 {
+  content: var(--image3);
+}
+.image4 {
+  content: var(--image4);
+}
+.image5 {
+  content: var(--image5);
+}
+.image6 {
+  content: var(--image6);
+}
+.image7 {
+  content: var(--image7);
+}
+.image8 {
+  content: var(--image8);
+}
+.image9 {
+  content: var(--image9);
+}
+.image10 {
+  content: var(--image10);
+}
+
+
+body
+{
+   	background-color: var(--bg);
+  	font-size: 12px;
+        line-height: 1.11;
+   	font-family: var(--font2); 
+   	color: var(--color1); 
+    	text-align: left;
+	padding-left:10px;
+	padding-right:10px;
+        margin: auto;
+        margin-top: 0px;
+        width: 53ch;
+  	text-shadow: 1px 1px 0px  var(--color4);
+}
+
+::selection {
+  background: var(--color4); 
+  text-shadow: none;
+}
+
+#blockoPayModal.modal .modal-content {
+ background: var(--bg);
+ color: var(--color1);
+}
+
+#blockoPayModal.modal .modal-header h4 {
+ color: var(--color1);
+}
+
+#blockoPayModal.modal .modal-header .modal-desc {
+ color: var(--color1);
+}
+
+#blockoPayModal.modal .modal-body hr {
+display: none;
+}
+
+#blocko-merchant-ratings {
+ display: none;
+}
+
+#blockoPayModal.modal .modal-footer {
+ display: none;
+}
+
+#blockoPayModal.modal .btn-warning {
+ color: var(--color2);
+ background-color: var(--bg);
+ border-color: var(--color2);
+}
+
+#blockoPayModal.modal .btn-warning:hover {
+ color: var(--color2);
+ background-color: var(--color2);
+ border-color: var(--color2);
+}
+
+#blockoPayModal.modal .btn-warning:active {
+ color: var(--color2);
+ background-color: var(--color2);
+ border-color: var(--color2);
+}
+
+#blockoPayModal.modal .btn-warning:focus {
+ color: var(--color2);
+ background-color: var(--color2);
+ border-color: var(--color2);
+}
+
+    pre {
+	padding-left:0%;
+	padding-right:0%;
+      white-space: -moz-pre-wrap; /* Mozilla, supported since 1999 */
+      white-space: -pre-wrap; /* Opera */
+      white-space: -o-pre-wrap; /* Opera */
+      white-space: pre-wrap; /* CSS3 - Text module (Candidate Recommendation) http://www.w3.org/TR/css3-text/#white-space */
+      word-wrap: break-word; /* IE 5.5+ */
+    }
+
+    pre1 {
+      background-color: var(--bg);
+      width: 100%;
+      font-size: 7px;
+      position: relative;
+      white-space: -moz-pre-wrap; /* Mozilla, supported since 1999 */
+      white-space: -pre-wrap; /* Opera */
+      white-space: -o-pre-wrap; /* Opera */
+      white-space: pre-wrap; /* CSS3 - Text module (Candidate Recommendation) http://www.w3.org/TR/css3-text/#white-space */
+      word-wrap: break-word; /* IE 5.5+ */
+    }
+
+
+    a {
+      font-size: 17px;
+    }
+
+    a:link {font-weight: bold; color: var(--color2); text-decoration:underline;}
+    a:visited {color: var(--color2); text-decoration:none;}
+    a:hover {text-shadow: 0px 0px 0px  var(--color4);text-decoration:none; color: var(--bg); background: var(--color2);}
+
+    span {
+      color: var(--color2);
+      text-shadow: 0px 0px 50px  var(--color2);
+    }
+
+    img {
+      /* image-rendering: pixelated; */
+    }
+
+.row {
+  margin: 0px 0px;
+}
+
+/* Add padding BETWEEN each column */
+.row,
+.row > .column {
+  padding: 10px;
+}
+
+/* Create equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 33%;
+
+  
+}
+
+/* Clear floats after rows */ 
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+  padding: 0px;
+}
+
+
+@media screen and (max-width: 555px) {
+  .column {
+    width: 50%;
+  }
+
+body {
+    font-size: 3.0vw;
+
+  }
+
+    a {
+      font-size: 3.0vw;
+    }
+}
+
+  </style>
+ 
+  <script>
+    // Replace with your own Bitcoin address
+    var address = "1BvBMSEYstWetqTFn5Au4m4GFg7xJaNVN2";
+    // API endpoint to get transaction information
+    var apiUrl = "https://blockchain.info/rawaddr/" + address;
+    // Fetch transaction information from API
+    fetch(apiUrl)
+      .then(function(response) {
+        return response.json();
+      })
+      .then(function(data) {
+        var balance = data.final_balance;
+        // Display balance in USD
+        fetch("https://blockchain.info/ticker")
+          .then(function(response) {
+            return response.json();
+          })
+          .then(function(data) {
+            var rate = data.USD.last;
+            var balanceUsd = balance * rate / 100000000;
+            document.getElementById("balance").innerHTML = "$" + balanceUsd.toFixed(2);
+          });
+        var transactions = data.txs;
+        var contributors = {};
+        // Loop through all transactions
+        for (var i = 0; i < transactions.length; i++) {
+          var transaction = transactions[i];
+          var inputs = transaction.inputs;
+          var input = inputs[0];
+          var prevOut = input.prev_out;
+          var sender = prevOut.addr;
+          var value = prevOut.value;
+          // Check if sender already exists in contributors object
+          if (contributors[sender]) {
+            // Add value to existing sender
+            contributors[sender] += value;
+          } else {
+            // Add new sender to contributors object
+            contributors[sender] = value;
+          }
+        }
+        // Sort contributors by value in descending order
+        var sortedContributors = Object.entries(contributors).sort((a, b) => b[1] - a[1]);
+        var contributorList = document.getElementById("biggest-contributors");
+        var symbols = '';
+        // Display symbols for all contributors
+        for (var i = 0; i < sortedContributors.length; i++) {
+          var contributor = sortedContributors[i];
+          var senderAddress = contributor[0];
+          var value = (contributor[1]/1e8).toFixed(8);
+          symbols += '<span title="Sender: ' + senderAddress + ' | BTC Value: ' + value + '">─🟡─</span>';
+        }
+        contributorList.innerHTML = symbols;
+      });
+  </script>
+
+
+</head>
+
+<body>
+
+<center> 
+<pre>
+<span>
+ ██████╗  ██████╗  ███████╗ ███╗   ██╗
+██╔═══██╗ ██╔══██╗ ██╔════╝ ████╗  ██║
+██║   ██║ ██████╔╝ █████╗   ██╔██╗ ██║
+██║   ██║ ██╔═══╝  ██╔══╝   ██║╚██╗██║
+╚██████╔╝ ██║      ███████╗ ██║ ╚████║
+ ╚═════╝  ╚═╝      ╚══════╝ ╚═╝  ╚═══╝
+          ██████╗             ██████╗ 
+          ██╔════╝           ██╔════╝ 
+          ██║  ███╗          ██║  ███╗
+          ██║   ██║          ██║   ██║
+██╗       ╚██████╔╝           ██████╔╝
+╚═╝        ╚═════╝            ╚═════╝ 
+</span>
+</pre>
+</center> 
+
+<center> 
+<pre>
+┣───────────────────────────────────────┫
+</pre>
+</center> 
+
+<center>
+<pre title="bc1qrzc7tmm4mu5k499a8fz0zt7wmxyx20mn26kzgl">
+<span style="font-size: 40px" id="balance">Loading...</span>
+<span>
+▄▄▄▄▄▄▄   ▄ ▄ ▄  ▄ ▄▄ ▄▄▄▄▄▄▄  
+█ ▄▄▄ █ ▀ ▀ ▄▀ ▀▄▀█▄▄ █ ▄▄▄ █  
+█ ███ █ ▀█▀ ▀▀▄ ▄▀▀▄▄ █ ███ █  
+█▄▄▄▄▄█ █▀▄▀█▀█▀█ █ ▄ █▄▄▄▄▄█  
+▄▄▄▄▄ ▄▄▄█▀█ ▄▄▀▀▄▀▄▄▄ ▄ ▄ ▄   
+▀▄▀   ▄▄▀ █ ▀█ ▄▀█▄▀▄▀█▀█▄  ▀  
+▀ ▀▄█▄▄▀▄▄▄ █▄██▄▄▀    █▀█▄▄   
+▀█▀█  ▄▄▀▀▄▄▄█▀▄   ▀█ ▀▄█ ▄▄▀  
+ ▄▄█▀ ▄▀▄▄▄█ ▄▄▄▄▄█▄▄▄ ▀ █▄▄▀  
+█ ██▀█▄▄▄▀  ▀▄▄▄ ▄ ▀▄ ▀██ █▀▀  
+█ █▄█ ▄█▄█  █▄█▀▄▄ ▄▄▄▄█▄▀▄█▀  
+▄▄▄▄▄▄▄ █▀▄▄▄▀▄▄█▄ ██ ▄ █▄▄▀▀  
+█ ▄▄▄ █ ▄█▄█   ▀▄▄  █▄▄▄█▄▄██  
+█ ███ █ ███ ▀█▄▄▀▀▀▄ ▄▄▄▄█▄█▀  
+█▄▄▄▄▄█ █▄▄ █▀▄▀▄▄ ▀▀▀█▄██▄▀   
+</span></pre>
+<div id="biggest-contributors"></div>
+</center>
+
+<div>
+<center> 
+<pre>
+┣───────────────────────────────────────┫
+│       <span> ▄▀  ▄▀▄ █▄ ▄█ ██▀ ▄▀▀</span>          │
+│       <span> ▀▄█ █▀█ █ ▀ █ █▄▄ ▄██</span>          │
+┣───────────────────────────────────────┫
+</pre>
+</center> 
+
+<div class="row">
+
+<div class="column">
+<div class="content">
+<div align="left">
+<img style="-webkit-filter: drop-shadow(5px 5px 0px var(--color4));" class="image3" width="95%" alt="Image"/>
+<pre>
+<b>TEAM1</b>
+-----------
+TuxKart
+0AD
+-----------
+<a href="">About</a>
+</div>
+</div>
+</div>
+<div class="column">
+<div class="content">
+<div align="left">
+<img style="-webkit-filter: drop-shadow(5px 5px 0px var(--color4));" class="image4" width="95%" alt="Image"/>
+<pre>
+<b>TEAM1</b>
+-----------
+TuxKart
+0AD
+-----------
+<a href="">About</a>
+</div>
+</div>
+</div>
+
+<div class="column">
+<div class="content">
+<div align="left">
+<img style="-webkit-filter: drop-shadow(5px 5px 0px var(--color4));" class="image2" width="95%" alt="Image"/>
+<pre>
+<a href="">Add Game</a>
+</div>
+</div>
+</div>
+
+</div>
+
+<center> 
+<pre>
+┣───────────────────────────────────────┫
+│       <span> ▀█▀ ██▀ ▄▀▄ █▄ ▄█ ▄▀▀</span>          │
+│       <span>  █  █▄▄ █▀█ █ ▀ █ ▄██</span>          │
+┣───────────────────────────────────────┫
+</center> 
+</pre>
+<div class="row">
+
+<div class="column">
+<div class="content">
+<div align="left">
+<img style="-webkit-filter: drop-shadow(5px 5px 0px var(--color4));" class="image1" width="95%" alt="Image"/>
+<pre>
+<b>TEAM1</b>
+-----------
+TuxKart
+0AD
+-----------
+<a href="">About</a>
+</div>
+</div>
+</div>
+<div class="column">
+<div class="content">
+<div align="left">
+<img style="-webkit-filter: drop-shadow(5px 5px 0px var(--color4));" class="image1" width="95%" alt="Image"/>
+<pre>
+<b>TEAM1</b>
+-----------
+TuxKart
+0AD
+-----------
+<a href="">About</a>
+</div>
+</div>
+</div>
+<div class="column">
+<div class="content">
+<div align="left">
+<img style="-webkit-filter: drop-shadow(5px 5px 0px var(--color4));" class="image1" width="95%" alt="Image"/>
+<pre>
+<b>TEAM1</b>
+-----------
+TuxKart
+0AD
+-----------
+<a href="">About</a>
+</div>
+</div>
+</div>
+<div class="column">
+<div class="content">
+<div align="left">
+<img style="-webkit-filter: drop-shadow(5px 5px 0px var(--color4));" class="image1" width="95%" alt="Image"/>
+<pre>
+<b>TEAM1</b>
+-----------
+TuxKart
+0AD
+-----------
+<a href="">About</a>
+</div>
+</div>
+</div>
+<div class="column">
+<div class="content">
+<div align="left">
+<img style="-webkit-filter: drop-shadow(5px 5px 0px var(--color4));" class="image1" width="95%" alt="Image"/>
+<pre>
+<b>TEAM1</b>
+-----------
+TuxKart
+0AD
+-----------
+<a href="">About</a>
+</div>
+</div>
+</div>
+<div class="column">
+<div class="content">
+<div align="left">
+<img style="-webkit-filter: drop-shadow(5px 5px 0px var(--color4));" class="image2" width="95%" alt="Image"/>
+<pre>
+<a href="">Add Team</a>
+</div>
+</div>
+</div>
+
+<center>
+<pre>
+----------------------------
+</pre>
+</center>
+
+</div>
+</body>
