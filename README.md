@@ -2,7 +2,7 @@
 
 
 ## ASCII-Style Websites
-- [IBOSAP]([https://prim4t.github.io/free-websites/bastron](https://prim4t.github.io/free-websites/ibosap.html)
+- [IBOSAP](https://prim4t.github.io/free-websites/ibosap.html)
 
 ## Linktree-Style Websites for people I like:
 - [dannymac3d](https://prim4t.github.io/free-websites/dannymac3d)
