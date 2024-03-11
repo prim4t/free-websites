@@ -1,8 +1,7 @@
 # Websites I do for fun
 
 ## 3D
-![3DEE_thumbnail]([https://raw.githubusercontent.com/prim4t/free-websites/main/3DEE/3DEE_thumbnail.gif](https://raw.githubusercontent.com/prim4t/free-websites/main/3DEE/3DEE_thumbnail.gif))
-
+![3DEE_thumbnail](https://raw.githubusercontent.com/prim4t/free-websites/main/3DEE/3DEE_thumbnail.gif)
 - [3DEE.store]([https://prim4t.github.io/free-websites/ibosap.html](https://prim4t.github.io/free-websites/3DEE/))
 
 ## ASCII-Style Websites
