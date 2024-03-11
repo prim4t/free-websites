@@ -1,7 +1,7 @@
 # Websites I do for fun
 
 ## 3D
-![TeXt Theme Details]([https://raw.githubusercontent.com/prim4t/How-to-overthink-a-logo/main/saintofsinner/research.JPG](https://raw.githubusercontent.com/prim4t/free-websites/main/3DEE/3DEE_thumbnail.gif))
+![3DEE_thumbnail]([https://raw.githubusercontent.com/prim4t/How-to-overthink-a-logo/main/saintofsinner/research.JPG](https://raw.githubusercontent.com/prim4t/free-websites/main/3DEE/3DEE_thumbnail.gif))
 - [3DEE.store]([https://prim4t.github.io/free-websites/ibosap.html](https://prim4t.github.io/free-websites/3DEE/))
 
 ## ASCII-Style Websites
