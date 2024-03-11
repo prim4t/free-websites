@@ -5,8 +5,6 @@
 - [3DEE.store](https://prim4t.github.io/free-websites/3DEE/)
 
 ## ASCII-Style Websites
-![ibosap_thumbnail](https://raw.githubusercontent.com/prim4t/free-websites/main/media/ibosap_thumbnail.gif)![ibosap_thumbnail](https://raw.githubusercontent.com/prim4t/free-websites/main/media/ibosap_thumbnail.gif)
-![ibosap_thumbnail](https://raw.githubusercontent.com/prim4t/free-websites/main/media/ibosap_thumbnail.gif)
 ![ibosap_thumbnail](https://raw.githubusercontent.com/prim4t/free-websites/main/media/ibosap_thumbnail.gif)
 
 - [IBOSAP](https://prim4t.github.io/free-websites/ibosap.html)
