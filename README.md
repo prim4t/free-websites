@@ -4,9 +4,11 @@
 ![3DEE_thumbnail](https://raw.githubusercontent.com/prim4t/free-websites/main/3DEE/3DEE_thumbnail.gif)
 - [3DEE.store](https://prim4t.github.io/free-websites/3DEE/)
 
+![PRIM4T-COIN](https://raw.githubusercontent.com/prim4t/free-websites/main/PRIM4T-COIN/prim4t_coin_thumbnail.gif)
+- [PRIM4T-COIN](https://prim4t.github.io/free-websites/PRIM4T-COIN/)
+
 ## ASCII-Style Websites
 ![ibosap_thumbnail](https://raw.githubusercontent.com/prim4t/free-websites/main/media/ibosap_thumbnail.gif)
-
 - [IBOSAP](https://prim4t.github.io/free-websites/ibosap.html)
 
 ## Linktree-Style Websites for people I like:
